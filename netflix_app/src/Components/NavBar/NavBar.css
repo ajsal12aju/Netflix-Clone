@@ -1,0 +1,17 @@
+.img-size{
+  height: 25px;
+}
+.p-10{
+  padding: 10px;
+}
+
+.nav-a{
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+
+}
+.nav-a:hover{
+  background-color: aliceblue;
+  cursor: pointer;
+}
